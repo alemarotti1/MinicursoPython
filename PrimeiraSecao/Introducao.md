@@ -35,6 +35,22 @@ Além disso, podemos criar comentários no código utilizando o simbolo de jogo 
 # Isso é um comentário que sera ignorado pelo interpretador de python
 ```
 
+### Tipos Comuns de Variáveis
+Apesar de não ser necessário declarar os tipos das variáveis, os valores armazenados dentros das variáveis possuem tipos diferentes. Esses tipos podem ser verificados com a função "type()". Por exemplo, caso executassemos o seguinte código:
+```
+variavel="Ola mundo"
+type(variavel)
+```
+Nós obteriamos o resultado "str", que é equivalente ao tipo de strings.
+
+Os tipo que mais vamos utilizar são os seugintes:
+
+1. String; Int; Float, bool; Os tipos básicos mais comuns
+2. Listas; Dicionários; Tuplas; Os tipos de agrupamentos
+3. Range; Tipo que gera um iterador que vamos usar com frequência em loops
+
+
+
 ### Blocos de código
 Além de não precisar declarar variáveis, não precisamos usar chaves para definir blocos, assim o python utiliza indentação para definir diferentes blocos de código. Podemos usar tanto espaços quanto tabs para indentar, porém devemos ser consistentes na nossa escolhas. 
 
