@@ -51,6 +51,8 @@ if True: #True e False em python começam com letras maiusculas
   print("ola mundo") #tudo que queremos que esteja dentro do if, deve ser identado um nível a mais
 ```
 
+Porém precisamos tomar cuidado com a quantidade de espaços dentro do mesmo bloco de código. Todas as linhas dentro de um mesmo bloco devem possuir a mesma quantidade de identações. Além disso, também não podemos misturar tabulações e espaços.
+
 
 
 
