@@ -70,6 +70,32 @@ if True: #True e False em python começam com letras maiusculas
 Porém precisamos tomar cuidado com a quantidade de espaços dentro do mesmo bloco de código. Todas as linhas dentro de um mesmo bloco devem possuir a mesma quantidade de identações. Além disso, também não podemos misturar tabulações e espaços.
 
 
+Condicionais
+Match
+Laços de repetição
+  - range
+  - Em listas
+Funções
+  - Funções do Python
+  - Funções definidas pelo usuário
+Classes
+  - Atributos
+  - Funções
+  - Herança e polimorfismo
+
+
+Trabalhando com listas do jeito do python
+
+Abrindo arquivos
+  - Lendo arquivos
+  - Escrevendo arquivos
+  - 
+
+
+
+
+
+
 
 
 
